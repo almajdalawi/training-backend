@@ -23,6 +23,7 @@ This repo is for practicing backend skills
 - [Node.js Server](TS/server-nodeJs/README.md)
 - [Express Server](TS/server-express/README.md)
 - [GraphQL](TS/graphql/README.md)
+- [Postgerss and GaphQl](TS/server-pg-gql/README.md)
 
 <br>
 
